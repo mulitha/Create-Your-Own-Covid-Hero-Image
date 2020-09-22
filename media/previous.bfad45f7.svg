@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="718px" height="718px" viewBox="0 0 718 718" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>next</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="next" transform="translate(359.000000, 359.000000) scale(-1, 1) translate(-359.000000, -359.000000) " fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M359,718 C160.729775,718 0,557.270225 0,359 C0,160.729775 160.729775,0 359,0 C557.270225,0 718,160.729775 718,359 C718,557.270225 557.270225,718 359,718 Z M596.648863,358.499742 L502.624682,453.756246 L507.80025,459 L607.002744,358.510169 L605.006224,358.499742 L607,358.499742 L607,351.129743 L606.725332,351.129743 L507.80025,258 L502.624682,263.243533 L596.374195,351.129743 L111,351.129743 L111,358.499742 L596.648863,358.499742 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>
