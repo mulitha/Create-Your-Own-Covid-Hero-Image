@@ -1,4 +1,4 @@
-# Create-Your-Own-Covid-Hero-Image
+# React - Create Your Own Covid Hero Image
 
 Purpose is to give tribute to doctors and nurses who went above and beyond to save lives
 
